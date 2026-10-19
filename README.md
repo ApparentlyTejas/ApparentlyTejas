@@ -78,4 +78,4 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 
 ### Stats
 
-<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/main/assets/stats.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/main/assets/stats.svg?v=3" width="100%"/>
