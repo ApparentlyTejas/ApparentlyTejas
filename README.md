@@ -31,48 +31,39 @@ I build across the stack — backend APIs, full-stack web apps, AI features, and
 
 ### Featured projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+<div align="center">
 
 <a href="https://github.com/ApparentlyTejas/incident-lens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=incident-lens&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=incident-lens&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
-<br/>
-MCP server over log data in SereneDB — tamper-evident hash-chained audit ledger, concentration-ranked failure patterns, billion-row remote Parquet queries over S3.
 
-</td>
-<td width="50%" valign="top" align="center">
+MCP server over log data in SereneDB — tamper-evident hash-chained audit ledger, concentration-ranked failure patterns, billion-row remote Parquet queries over S3 with zero download.
+
+<br/><br/>
 
 <a href="https://github.com/ApparentlyTejas/RoomLock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=RoomLock&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=RoomLock&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
-<br/>
-Found a real double-booking race condition under load, fixed it two different ways, then load-tested both to prove which actually held up.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+Found a real double-booking race condition under load, fixed it two different ways (row lock, then a Postgres exclusion constraint), and load-tested both to prove which actually held up.
+
+<br/><br/>
 
 <a href="https://github.com/ApparentlyTejas/DevPulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=DevPulse&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=DevPulse&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
-<br/>
-AI-powered engineering-ops platform exposed to Claude via MCP — async FastAPI, Postgres + pgvector, Redis, background scheduling.
 
-</td>
-<td width="50%" valign="top" align="center">
+AI-powered engineering-ops platform exposed to Claude via MCP — async FastAPI, Postgres + pgvector, Redis, background job scheduling.
+
+<br/><br/>
 
 <a href="https://reviewlenzai.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=ReviewLenzAI&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=ReviewLenzAI&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
-<br/>
-AI-powered GitHub PR reviewer, deployed and live — sign in, pick a PR, get findings ranked by severity.
 
-</td>
-</tr>
-</table>
+AI-powered GitHub PR reviewer, deployed and live — sign in, pick a PR, get structured findings ranked by severity.
+
+</div>
 
 <br/>
 
