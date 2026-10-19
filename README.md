@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=220&section=header&text=Hey,%20I'm%20Tejas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Looking%20for%20Internships%20%2F%20Working%20Student%20Roles&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://github.com/ApparentlyTejas/incident-lens">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+TypeScript+%2B+PostgreSQL;Backend+APIs%2C+full-stack+apps%2C+AI%2FMCP+tooling;Finding+race+conditions+under+real+load;Open+to+internships+%2F+working+student+roles" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/main/assets/header.svg" width="100%"/>
 
 <br/>
 
