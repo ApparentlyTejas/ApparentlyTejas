@@ -14,9 +14,9 @@
 
 ### About me
 
-I build across the stack — backend APIs, full-stack web apps, AI features, and MCP tooling — and I lean toward projects that get tested against real conditions, not just demoed once and shipped.
+I build across the stack: backend APIs, full-stack web apps, AI features, and MCP tooling. I lean toward projects that get tested against real conditions, not just demoed once and shipped.
 
-- 🧪 I test things by actually breaking them — race conditions under real concurrent load, clean-checkout runs, chasing down query-planner behavior instead of trusting the first benchmark number.
+- 🧪 I test things by actually breaking them: race conditions under real concurrent load, clean-checkout runs, chasing down query-planner behavior instead of trusting the first benchmark number.
 - 🛠️ Backend: FastAPI/Flask APIs, PostgreSQL. AI: LLM-powered features, Anthropic/OpenAI SDKs. MCP: building servers and tools that let models act on real systems. Full-stack: React + TypeScript. Infra: Docker, AWS (EKS, multi-tier deployments). Also comfortable in C++.
 - 🎓 Software engineering student, currently exploring internship / working student opportunities.
 
@@ -69,10 +69,10 @@ I build across the stack — backend APIs, full-stack web apps, AI features, and
 
 | Project | What it does |
 |---|---|
-| **[incident-lens](https://github.com/ApparentlyTejas/incident-lens)** | Evidence-backed MCP log server — tamper-evident audit ledger, concentration-ranked failure patterns, billion-row remote Parquet queries over S3. |
+| **[incident-lens](https://github.com/ApparentlyTejas/incident-lens)** | Evidence-backed MCP log server with a tamper-evident audit ledger, concentration-ranked failure patterns, and billion-row remote Parquet queries over S3. |
 | **[RoomLock](https://github.com/ApparentlyTejas/RoomLock)** | Found a real double-booking race condition under load, fixed it two ways, and load-tested both to prove which held up. |
-| **[DevPulse](https://github.com/ApparentlyTejas/DevPulse)** | AI-powered engineering-ops platform exposed to Claude via MCP — async FastAPI, Postgres + pgvector, Redis. |
-| **[ReviewLenzAI](https://reviewlenzai.vercel.app)** | AI-powered GitHub PR reviewer, deployed and live — sign in, pick a PR, get findings ranked by severity. |
+| **[DevPulse](https://github.com/ApparentlyTejas/DevPulse)** | AI-powered engineering-ops platform exposed to Claude via MCP, built on async FastAPI, Postgres + pgvector, and Redis. |
+| **[ReviewLenzAI](https://reviewlenzai.vercel.app)** | AI-powered GitHub PR reviewer, deployed and live. Sign in, pick a PR, get findings ranked by severity. |
 
 <br/>
 
