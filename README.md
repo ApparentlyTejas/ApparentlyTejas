@@ -13,10 +13,10 @@
 
 ### About me
 
-I build across the stack — backend APIs, full-stack web apps, and AI/MCP tooling — and I lean toward projects that get tested against real conditions, not just demoed once and shipped.
+I build across the stack — backend APIs, full-stack web apps, AI features, and MCP tooling — and I lean toward projects that get tested against real conditions, not just demoed once and shipped.
 
 - 🧪 I test things by actually breaking them — race conditions under real concurrent load, clean-checkout runs, chasing down query-planner behavior instead of trusting the first benchmark number.
-- 🛠️ Backend: FastAPI/Flask APIs, PostgreSQL, AI/MCP integrations. Full-stack: React + TypeScript. Infra: Docker, AWS (EKS, multi-tier deployments). Also comfortable in C++.
+- 🛠️ Backend: FastAPI/Flask APIs, PostgreSQL. AI: LLM-powered features, Anthropic/OpenAI SDKs. MCP: building servers and tools that let models act on real systems. Full-stack: React + TypeScript. Infra: Docker, AWS (EKS, multi-tier deployments). Also comfortable in C++.
 - 🎓 Software engineering student, currently exploring internship / working student opportunities.
 
 <br/>
