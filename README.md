@@ -67,13 +67,6 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 </tr>
 </table>
 
-| Project | What it does |
-|---|---|
-| **[incident-lens](https://github.com/ApparentlyTejas/incident-lens)** | Evidence-backed MCP log server with a tamper-evident audit ledger, concentration-ranked failure patterns, and billion-row remote Parquet queries over S3. |
-| **[RoomLock](https://github.com/ApparentlyTejas/RoomLock)** | Found a real double-booking race condition under load, fixed it two ways, and load-tested both to prove which held up. |
-| **[DevPulse](https://github.com/ApparentlyTejas/DevPulse)** | AI-powered engineering-ops platform exposed to Claude via MCP, built on async FastAPI, Postgres + pgvector, and Redis. |
-| **[ReviewLenzAI](https://reviewlenzai.vercel.app)** | AI-powered GitHub PR reviewer, deployed and live. Sign in, pick a PR, get findings ranked by severity. |
-
 <br/>
 
 ### Stats
