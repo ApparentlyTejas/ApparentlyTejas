@@ -1,0 +1,56 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="45%" stop-color="#0d1226"/>
+      <stop offset="100%" stop-color="#1f1138"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#bc8cff"/>
+    </linearGradient>
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="180" rx="14" fill="url(#bg2)"/>
+
+  <!-- vertical separators -->
+  <g stroke="#2a3148" stroke-width="1">
+    <line x1="250" y1="34" x2="250" y2="146"/>
+    <line x1="500" y1="34" x2="500" y2="146"/>
+    <line x1="750" y1="34" x2="750" y2="146"/>
+  </g>
+
+  <!-- stat 1: contributions last year -->
+  <g transform="translate(125, 90)" text-anchor="middle">
+    <text y="-14" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#f3f6fb">337</text>
+    <text y="18" font-family="'Fira Code', Consolas, monospace" font-size="13" fill="#8b97ad">contributions / last year</text>
+    <circle cx="-70" cy="-16" r="3" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- stat 2: total commits -->
+  <g transform="translate(375, 90)" text-anchor="middle">
+    <text y="-14" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#f3f6fb">391</text>
+    <text y="18" font-family="'Fira Code', Consolas, monospace" font-size="13" fill="#8b97ad">total commits</text>
+  </g>
+
+  <!-- stat 3: stars earned -->
+  <g transform="translate(625, 90)" text-anchor="middle">
+    <text y="-14" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#f3f6fb">50</text>
+    <text y="18" font-family="'Fira Code', Consolas, monospace" font-size="13" fill="#8b97ad">stars earned</text>
+  </g>
+
+  <!-- stat 4: repos -->
+  <g transform="translate(875, 90)" text-anchor="middle">
+    <text y="-14" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#f3f6fb">31</text>
+    <text y="18" font-family="'Fira Code', Consolas, monospace" font-size="13" fill="#8b97ad">repositories</text>
+  </g>
+
+  <!-- top accent line -->
+  <rect x="14" y="0" width="972" height="3" rx="1.5" fill="url(#accent2)" filter="url(#glow2)"/>
+</svg>

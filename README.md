@@ -78,9 +78,4 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 
 ### Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ApparentlyTejas&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ApparentlyTejas&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-
-</div>
+<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/main/assets/stats.svg" width="100%"/>
