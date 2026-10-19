@@ -56,14 +56,14 @@
     <tspan fill="#c3cad4">backend, full-stack, AI/MCP</tspan>
   </text>
 
-  <!-- status pill -->
-  <g transform="translate(60, 198)">
-    <rect x="0" y="0" width="420" height="36" rx="18" fill="#ffffff" opacity="0.06" stroke="#3fb950" stroke-opacity="0.4"/>
-    <circle cx="22" cy="18" r="6" fill="#3fb950">
-      <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
-    <text x="42" y="24" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#aef6c4">
-      Open to internships / working student roles
-    </text>
+  <!-- tagline -->
+  <text x="60" y="214" font-family="'Fira Code', 'Consolas', monospace" font-size="15" fill="#6b7280">
+    building things that get tested before they ship, not after.
+  </text>
+
+  <!-- corner bracket accents -->
+  <g stroke="#58a6ff" stroke-opacity="0.35" stroke-width="2" fill="none">
+    <path d="M 920 36 L 944 36 L 944 60"/>
+    <path d="M 944 200 L 944 224 L 920 224"/>
   </g>
 </svg>
