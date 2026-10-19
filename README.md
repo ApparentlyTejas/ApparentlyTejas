@@ -33,42 +33,42 @@ I build across the stack — backend APIs, full-stack web apps, and AI/MCP tooli
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**[incident-lens](https://github.com/ApparentlyTejas/incident-lens)**
-
-Role-aware, evidence-backed MCP server over BGL and OpenStack logs in SereneDB — every answer cites a tamper-evident, hash-chained audit entry, ranks failure patterns by concentration rather than raw frequency, and queries a billion-row remote Parquet file over S3 with zero download.
-
-`Python` `MCP` `PostgreSQL`
+<a href="https://github.com/ApparentlyTejas/incident-lens">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=incident-lens&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
+MCP server over log data in SereneDB — tamper-evident hash-chained audit ledger, concentration-ranked failure patterns, billion-row remote Parquet queries over S3.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**[RoomLock](https://github.com/ApparentlyTejas/RoomLock)**
-
-Concurrency-safe room-booking API: found a real double-booking race under load, fixed it two different ways (row lock, then a Postgres exclusion constraint), and load-tested both to compare correctness and throughput before picking one.
-
-`Python` `PostgreSQL` `Concurrency`
+<a href="https://github.com/ApparentlyTejas/RoomLock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=RoomLock&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
+Found a real double-booking race condition under load, fixed it two different ways, then load-tested both to prove which actually held up.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**[DevPulse](https://github.com/ApparentlyTejas/DevPulse)**
-
-AI-powered engineering-ops platform: centralizes service monitoring, metrics and incident management, and exposes the whole thing to Claude via MCP. Async FastAPI + SQLAlchemy 2.0, Postgres + pgvector, Redis, background job scheduling.
-
-`FastAPI` `MCP` `pgvector` `Redis`
+<a href="https://github.com/ApparentlyTejas/DevPulse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=DevPulse&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
+AI-powered engineering-ops platform exposed to Claude via MCP — async FastAPI, Postgres + pgvector, Redis, background scheduling.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**[ReviewLenzAI](https://reviewlenzai.vercel.app)**
-
-AI-powered GitHub pull-request reviewer — sign in with GitHub or Google, browse your repos, pick a PR, get structured findings ranked by severity. Deployed and live, not just a repo.
-
-`FastAPI` `React` `TypeScript`
+<a href="https://reviewlenzai.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=ReviewLenzAI&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
+AI-powered GitHub PR reviewer, deployed and live — sign in, pick a PR, get findings ranked by severity.
 
 </td>
 </tr>
