@@ -1,15 +1,19 @@
 <div align="center">
 
-# Hey, I'm Tejas 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=220&section=header&text=Hey,%20I'm%20Tejas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Systems%20that%20have%20to%20actually%20hold%20up&descAlignY=58&descSize=18" width="100%"/>
 
-**Software Engineer** · Python · FastAPI · PostgreSQL · AWS · Concurrency & Distributed Systems
+<a href="https://github.com/ApparentlyTejas/incident-lens">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+FastAPI+%2B+PostgreSQL;Finding+race+conditions+under+real+load;Building+MCP+servers+that+cite+their+evidence;Currently+shipping+Incident+Lens" alt="Typing SVG" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/-incident--lens-black?style=flat-square&logo=github)](https://github.com/ApparentlyTejas/incident-lens)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tejas.malhotra.14@gmail.com)
+<br/>
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejas.malhotra.14@gmail.com)
+[![GitHub](https://img.shields.io/badge/-ApparentlyTejas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApparentlyTejas)
 
 </div>
 
----
+<br/>
 
 ### What I build
 
@@ -17,63 +21,68 @@ I like backend systems that have to actually hold up under load, not just demo w
 APIs with real concurrency, databases pushed to the row counts where the easy queries stop
 being fast, and tools that tell you what broke instead of just that something did.
 
-- 🔍 Currently building **[Incident Lens](https://github.com/ApparentlyTejas/incident-lens)** — an MCP server that turns raw BGL/OpenStack log corpora into evidence-backed, role-aware incident answers over SereneDB, with a tamper-evident hash-chained audit ledger.
-- 🧪 I test things by actually breaking them — clean-checkout runs, concurrency stress tests, and chasing down real query-planner behavior instead of trusting the first benchmark number.
-- 🛠️ Comfortable across the stack: FastAPI/Flask APIs, AWS deployments (EKS, multi-tier web apps), and systems-level work in C++.
+- 🧪 I test things by actually breaking them — race conditions under real concurrent load, clean-checkout runs, chasing down query-planner behavior instead of trusting the first benchmark number.
+- 🛠️ Comfortable across the stack: FastAPI/Flask APIs, AI/MCP integrations, AWS deployments (EKS, multi-tier web apps), and systems-level work in C++.
 
----
+<br/>
 
 ### Tech
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,docker,aws,ts,react,cpp,git" />
+</p>
 
----
+<br/>
 
 ### Featured projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **[incident-lens](https://github.com/ApparentlyTejas/incident-lens)**
-Role-aware, evidence-backed MCP server over BGL and OpenStack logs in SereneDB — hash-chained audit ledger, concentration-anomaly ranking, and a billion-row remote-Parquet query demo.
+
+Role-aware, evidence-backed MCP server over BGL and OpenStack logs in SereneDB — every answer cites a tamper-evident, hash-chained audit entry, ranks failure patterns by concentration rather than raw frequency, and queries a billion-row remote Parquet file over S3 with zero download.
+
+`Python` `MCP` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-**[DevPulse](https://github.com/ApparentlyTejas/DevPulse)**
-Python project monitoring real developer activity.
+**[RoomLock](https://github.com/ApparentlyTejas/RoomLock)**
+
+Concurrency-safe room-booking API: found a real double-booking race under load, fixed it two different ways (row lock, then a Postgres exclusion constraint), and load-tested both to compare correctness and throughput before picking one.
+
+`Python` `PostgreSQL` `Concurrency`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Personal-Task-Manager-API](https://github.com/ApparentlyTejas/Personal-Task-Manager-API)**
-A task management REST API.
+**[DevPulse](https://github.com/ApparentlyTejas/DevPulse)**
+
+AI-powered engineering-ops platform: centralizes service monitoring, metrics and incident management, and exposes the whole thing to Claude via MCP. Async FastAPI + SQLAlchemy 2.0, Postgres + pgvector, Redis, background job scheduling.
+
+`FastAPI` `MCP` `pgvector` `Redis`
 
 </td>
 <td width="50%" valign="top">
 
-**[ReviewLenzAI](https://github.com/ApparentlyTejas/ReviewLenzAI)**
-TypeScript tooling for AI-assisted review workflows.
+**[ReviewLenzAI](https://reviewlenzai.vercel.app)**
+
+AI-powered GitHub pull-request reviewer — sign in with GitHub or Google, browse your repos, pick a PR, get structured findings ranked by severity. Deployed and live, not just a repo.
+
+`FastAPI` `React` `TypeScript`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ApparentlyTejas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApparentlyTejas&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
 
 </div>
