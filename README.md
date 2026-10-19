@@ -5,6 +5,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejas.malhotra.14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasmalhotra410850207)
 [![GitHub](https://img.shields.io/badge/-ApparentlyTejas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApparentlyTejas)
 
 </div>
@@ -31,7 +32,8 @@ I build across the stack — backend APIs, full-stack web apps, AI features, and
 
 ### Featured projects
 
-<div align="center">
+<table width="640" align="center">
+<tr><td>
 
 <a href="https://github.com/ApparentlyTejas/incident-lens">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=incident-lens&theme=tokyonight&hide_border=true&description_lines_count=2" />
@@ -39,7 +41,9 @@ I build across the stack — backend APIs, full-stack web apps, AI features, and
 
 MCP server over log data in SereneDB — tamper-evident hash-chained audit ledger, concentration-ranked failure patterns, billion-row remote Parquet queries over S3 with zero download.
 
-<br/><br/>
+</td></tr>
+<tr><td height="24"></td></tr>
+<tr><td>
 
 <a href="https://github.com/ApparentlyTejas/RoomLock">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=RoomLock&theme=tokyonight&hide_border=true&description_lines_count=2" />
@@ -47,7 +51,9 @@ MCP server over log data in SereneDB — tamper-evident hash-chained audit ledge
 
 Found a real double-booking race condition under load, fixed it two different ways (row lock, then a Postgres exclusion constraint), and load-tested both to prove which actually held up.
 
-<br/><br/>
+</td></tr>
+<tr><td height="24"></td></tr>
+<tr><td>
 
 <a href="https://github.com/ApparentlyTejas/DevPulse">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=DevPulse&theme=tokyonight&hide_border=true&description_lines_count=2" />
@@ -55,7 +61,9 @@ Found a real double-booking race condition under load, fixed it two different wa
 
 AI-powered engineering-ops platform exposed to Claude via MCP — async FastAPI, Postgres + pgvector, Redis, background job scheduling.
 
-<br/><br/>
+</td></tr>
+<tr><td height="24"></td></tr>
+<tr><td>
 
 <a href="https://reviewlenzai.vercel.app">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=ReviewLenzAI&theme=tokyonight&hide_border=true&description_lines_count=2" />
@@ -63,7 +71,8 @@ AI-powered engineering-ops platform exposed to Claude via MCP — async FastAPI,
 
 AI-powered GitHub PR reviewer, deployed and live — sign in, pick a PR, get structured findings ranked by severity.
 
-</div>
+</td></tr>
+</table>
 
 <br/>
 
