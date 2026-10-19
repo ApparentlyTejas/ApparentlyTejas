@@ -78,3 +78,14 @@ AI-powered GitHub pull-request reviewer — sign in with GitHub or Google, brows
 </td>
 </tr>
 </table>
+
+<br/>
+
+### Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ApparentlyTejas&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ApparentlyTejas&show_icons=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+
+</div>
