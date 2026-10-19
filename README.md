@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=220&section=header&text=Hey,%20I'm%20Tejas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Systems%20that%20have%20to%20actually%20hold%20up&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=220&section=header&text=Hey,%20I'm%20Tejas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Looking%20for%20Internships%20%2F%20Working%20Student%20Roles&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/ApparentlyTejas/incident-lens">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+FastAPI+%2B+PostgreSQL;Finding+race+conditions+under+real+load;Building+MCP+servers+that+cite+their+evidence;Currently+shipping+Incident+Lens" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+TypeScript+%2B+PostgreSQL;Backend+APIs%2C+full-stack+apps%2C+AI%2FMCP+tooling;Finding+race+conditions+under+real+load;Open+to+internships+%2F+working+student+roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,14 +15,14 @@
 
 <br/>
 
-### What I build
+### About me
 
-I like backend systems that have to actually hold up under load, not just demo well:
-APIs with real concurrency, databases pushed to the row counts where the easy queries stop
-being fast, and tools that tell you what broke instead of just that something did.
+🎓 Software engineering student currently looking for **internships / working student roles**.
+
+I build across the stack — backend APIs, full-stack web apps, and AI/MCP tooling — and I lean toward projects that get tested against real conditions, not just demoed once and shipped.
 
 - 🧪 I test things by actually breaking them — race conditions under real concurrent load, clean-checkout runs, chasing down query-planner behavior instead of trusting the first benchmark number.
-- 🛠️ Comfortable across the stack: FastAPI/Flask APIs, AI/MCP integrations, AWS deployments (EKS, multi-tier web apps), and systems-level work in C++.
+- 🛠️ Backend: FastAPI/Flask APIs, PostgreSQL, AI/MCP integrations. Full-stack: React + TypeScript. Infra: Docker, AWS (EKS, multi-tier deployments). Also comfortable in C++.
 
 <br/>
 
