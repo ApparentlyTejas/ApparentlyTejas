@@ -83,6 +83,6 @@ AI-powered GitHub pull-request reviewer — sign in with GitHub or Google, brows
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
+<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/output/github-contribution-grid-snake.svg?v=2" width="100%" alt="contribution snake"/>
 
 </div>
