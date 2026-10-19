@@ -39,6 +39,8 @@ I build across the stack — backend APIs, full-stack web apps, AI features, and
 <a href="https://github.com/ApparentlyTejas/incident-lens">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=incident-lens&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
+<br/>
+<sub>Evidence-backed MCP log server — tamper-evident audit ledger, concentration-ranked failure patterns, billion-row remote Parquet queries over S3.</sub>
 
 </td>
 <td align="center">
@@ -46,6 +48,8 @@ I build across the stack — backend APIs, full-stack web apps, AI features, and
 <a href="https://github.com/ApparentlyTejas/RoomLock">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=RoomLock&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
+<br/>
+<sub>Found a real double-booking race condition under load, fixed it two ways, and load-tested both to prove which held up.</sub>
 
 </td>
 </tr>
@@ -55,6 +59,8 @@ I build across the stack — backend APIs, full-stack web apps, AI features, and
 <a href="https://github.com/ApparentlyTejas/DevPulse">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=DevPulse&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
+<br/>
+<sub>AI-powered engineering-ops platform exposed to Claude via MCP — async FastAPI, Postgres + pgvector, Redis.</sub>
 
 </td>
 <td align="center">
@@ -62,6 +68,8 @@ I build across the stack — backend APIs, full-stack web apps, AI features, and
 <a href="https://reviewlenzai.vercel.app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=ReviewLenzAI&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
+<br/>
+<sub>AI-powered GitHub PR reviewer, deployed and live — sign in, pick a PR, get findings ranked by severity.</sub>
 
 </td>
 </tr>
