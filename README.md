@@ -4,6 +4,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://apparentlytejas.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejas.malhotra.14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasmalhotra410850207)
 [![GitHub](https://img.shields.io/badge/-ApparentlyTejas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApparentlyTejas)
@@ -71,4 +72,4 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 
 ### Stats
 
-<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/main/assets/stats.svg?v=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/main/assets/stats.svg?v=4" width="100%"/>
