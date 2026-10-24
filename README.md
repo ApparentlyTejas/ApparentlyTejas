@@ -72,4 +72,5 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 
 ### Stats
 
-<img src="https://raw.githubusercontent.com/ApparentlyTejas/ApparentlyTejas/main/assets/stats.svg?v=4" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ApparentlyTejas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApparentlyTejas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" width="35%"/>
