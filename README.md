@@ -38,14 +38,14 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 <td align="center">
 
 <a href="https://github.com/ApparentlyTejas/incident-lens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=incident-lens&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=incident-lens&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=1800" />
 </a>
 
 </td>
 <td align="center">
 
 <a href="https://github.com/ApparentlyTejas/RoomLock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=RoomLock&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=RoomLock&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=1800" />
 </a>
 
 </td>
@@ -54,14 +54,14 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 <td align="center">
 
 <a href="https://github.com/ApparentlyTejas/DevPulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=DevPulse&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=DevPulse&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=1800" />
 </a>
 
 </td>
 <td align="center">
 
 <a href="https://reviewlenzai.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=ReviewLenzAI&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApparentlyTejas&repo=ReviewLenzAI&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=1800" />
 </a>
 
 </td>
