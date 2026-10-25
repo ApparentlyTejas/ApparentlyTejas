@@ -73,6 +73,6 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 ### Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ApparentlyTejas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&cache_seconds=0" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApparentlyTejas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ApparentlyTejas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApparentlyTejas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="35%"/>
 </p>
