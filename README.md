@@ -27,6 +27,12 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 
 <br/>
 
+### Open source
+
+- Fixed a dtype-validation gap in [kornia](https://github.com/kornia/kornia/pull/6411) — two geometry conversion functions let integer/bool tensors through to a bare, unhelpful `RuntimeError` instead of a clear error matching their sibling functions.
+
+<br/>
+
 ### Tech
 
 <p>
