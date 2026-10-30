@@ -29,11 +29,9 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 
 ### Projects
 
-| | |
-|---|---|
-| **[RoomLock](https://github.com/ApparentlyTejas/RoomLock)** | Concurrency-safe room-booking API: found a real double-booking race condition under load, fixed it two different ways, and load-tested both. |
-| **[DevPulse](https://github.com/ApparentlyTejas/DevPulse)** | AI-powered engineering-ops platform for service monitoring, metrics, and incident management, exposed to Claude via MCP. |
-| **[ReviewLenzAI](https://reviewlenzai.vercel.app)** | AI-powered GitHub PR reviewer: sign in, pick a PR, get structured findings ranked by severity. |
+- **[RoomLock](https://github.com/ApparentlyTejas/RoomLock)** — Concurrency-safe room-booking API: found a real double-booking race condition under load, fixed it two different ways, and load-tested both.
+- **[DevPulse](https://github.com/ApparentlyTejas/DevPulse)** — AI-powered engineering-ops platform for service monitoring, metrics, and incident management, exposed to Claude via MCP.
+- **[ReviewLenzAI](https://reviewlenzai.vercel.app)** — AI-powered GitHub PR reviewer: sign in, pick a PR, get structured findings ranked by severity.
 
 <br/>
 
