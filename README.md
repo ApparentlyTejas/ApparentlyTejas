@@ -9,6 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasmalhotra410850207)
 [![GitHub](https://img.shields.io/badge/-ApparentlyTejas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApparentlyTejas)
 
+<br/>
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ApparentlyTejas/badge.svg)](https://hub.xerj.org/contributors/ApparentlyTejas)
+
 </div>
 
 <br/>
