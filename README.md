@@ -30,6 +30,7 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 ### Open source
 
 - Fixed a dtype-validation gap in [kornia](https://github.com/kornia/kornia/pull/6411) — two geometry conversion functions let integer/bool tensors through to a bare, unhelpful `RuntimeError` instead of a clear error matching their sibling functions.
+- Fixed a mistagged register in Home Assistant's [solax-modbus](https://github.com/wills106/homeassistant-solax-modbus/pull/2462) integration — three X1 Boost G4/Smart G2 entities were tagged for the wrong hardware generation (GEN3 instead of GEN4), so Manufacturer/Model/Language never read correctly on that hardware.
 
 <br/>
 
