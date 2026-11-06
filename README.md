@@ -4,14 +4,11 @@
 
 <br/>
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ApparentlyTejas/badge.svg)](https://hub.xerj.org/contributors/ApparentlyTejas)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://apparentlytejas.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejas.malhotra.14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasmalhotra410850207)
 [![GitHub](https://img.shields.io/badge/-ApparentlyTejas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApparentlyTejas)
-
-<br/>
-
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ApparentlyTejas/badge.svg)](https://hub.xerj.org/contributors/ApparentlyTejas)
 
 </div>
 
