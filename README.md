@@ -27,18 +27,6 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 
 <br/>
 
-### Selected projects
-
-**[ReviewLenzAI](https://github.com/ApparentlyTejas/ReviewLenzAI)** — AI-powered GitHub PR reviewer: sign in, pick a PR, get structured findings ranked by severity. Multi-tenant orgs, soft-delete-with-restore, SSE-streamed chat over the review. Live at [reviewlenzai.vercel.app](https://reviewlenzai.vercel.app).
-
-**[incident-lens](https://github.com/ApparentlyTejas/incident-lens)** — Role-aware MCP server over 5M+ real log lines (BGL, OpenStack, Zookeeper) in SereneDB: every answer cites the exact SQL that ran, backed by a tamper-evident hash-chained evidence ledger. Built for the National AI Hackathon 2026 (SchubKI).
-
-**[RoomLock](https://github.com/ApparentlyTejas/RoomLock)** — Concurrency-safe room-booking API. Found a real double-booking race condition under concurrent load, fixed it two different ways (row locking vs. a database exclusion constraint), and load-tested both to compare.
-
-**[DevPulse](https://github.com/ApparentlyTejas/DevPulse)** — Engineering-ops platform for service monitoring, metrics, and incident management, exposed to Claude as an MCP server so an agent can triage incidents and draft postmortems directly.
-
-<br/>
-
 ### Open source
 
 - Licensed [DevPulse](https://github.com/ApparentlyTejas/DevPulse) into the [XERJ Corpus Hub](https://hub.xerj.org/contributors/ApparentlyTejas): an open reference library AI coding agents search before writing code, indexing a real commit (per-org rate limiting, bounded Claude request timeout/retries) as a worked example.
