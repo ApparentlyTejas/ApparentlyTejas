@@ -29,6 +29,7 @@ I build across the stack: backend APIs, full-stack web apps, AI features, and MC
 
 ### Open source
 
+- Found and fixed two SQLite concurrency bugs in [DBOS](https://github.com/dbos-inc/dbos-transact-py/pull/943) *(merged)*: workflows sharing a global concurrency budget could overspend it, and a transaction step reading before its first write ran that read outside the write lock, letting concurrent steps write-skew past a cap. Root-caused to pysqlite's lazy transaction start, fixed with a guarded `BEGIN IMMEDIATE`, proven with deterministic concurrency tests (revert the fix, confirm the exact failure; restore it, confirm it passes).
 - Licensed [DevPulse](https://github.com/ApparentlyTejas/DevPulse) into the [XERJ Corpus Hub](https://hub.xerj.org/contributors/ApparentlyTejas): an open reference library AI coding agents search before writing code, indexing a real commit (per-org rate limiting, bounded Claude request timeout/retries) as a worked example.
 - Fixed a dtype-validation gap in [kornia](https://github.com/kornia/kornia/pull/6411) *(merged)*: two geometry conversion functions let integer/bool tensors through to a bare, unhelpful `RuntimeError` instead of a clear error matching their sibling functions.
 - Fixed a mistagged register in Home Assistant's [solax-modbus](https://github.com/wills106/homeassistant-solax-modbus/pull/2462) *(merged)* integration: three X1 Boost G4/Smart G2 entities were tagged for the wrong hardware generation (GEN3 instead of GEN4), so Manufacturer/Model/Language never read correctly on that hardware.
